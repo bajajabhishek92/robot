@@ -7,7 +7,7 @@
     ----------------------------------------------------------------- 
 
 
-Hi there! Welcome to Cloud9!
+Hi there! Welcome to Cloud9!  \\
 
 To get you started, we have created a few example applications.
 
